@@ -1,2 +1,3 @@
-# react-ecommerce
-Ecommerce Project for the Complete Reacte Developer Course
+# React E-Commerce
+
+E-commerce Project for the Complete React Developer Course
